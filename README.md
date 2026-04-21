@@ -87,6 +87,15 @@ streamlit run app.py
 - Visualizations: ROC Curve, Confusion Matrix, Feature Importance
 - Download prediction results as CSV
 
+## Technologies Used
+
+- Python
+- Streamlit
+- Pandas & NumPy
+- Scikit-learn
+- XGBoost
+- Plotly
+
 ## Author
 HarshaVardhan
 
