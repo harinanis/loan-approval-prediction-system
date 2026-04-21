@@ -73,6 +73,11 @@ streamlit run app.py
 2. Model training
 3. Prediction
 
+## Project Structure
+- app.py
+- train.csv
+- test.csv
+
 ## Features
 - Loan prediction
 - Risk analysis
