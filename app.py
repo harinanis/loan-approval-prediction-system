@@ -29,6 +29,7 @@ st.set_page_config(
 
 
 def inject_css() -> None:
+    # UI Improvement added
     st.markdown(
         """
         <style>
