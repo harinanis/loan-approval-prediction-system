@@ -76,7 +76,7 @@ streamlit run app.py
 ## Project Structure
 - app.py
 - train.csv
-- test.csv
+  
 
 ## Features
 - Loan prediction
