@@ -68,6 +68,11 @@ streamlit run app.py
 - If `Loan_Status` is missing in `test.csv`, the app will skip evaluation metrics and still support prediction.
 - For local reproducibility, models are trained directly at runtime using the loaded data.
 
+## How it Works
+1. Data preprocessing
+2. Model training
+3. Prediction
+
 ## Features
 - Loan prediction
 - Risk analysis
