@@ -78,10 +78,13 @@ streamlit run app.py
 6. Predict loan approval with probability score
 
 ## Project Structure
-- app.py
-- train.csv
-- test.csv
-- 
+
+- app.py → Main Streamlit application
+- train.csv → Training dataset
+- test.csv → Testing dataset
+- requirements.txt → Dependencies
+- README.md → Project documentation
+
 ## Features
 
 - Predict loan approval using Machine Learning
