@@ -69,4 +69,4 @@ streamlit run app.py
 - For local reproducibility, models are trained directly at runtime using the loaded data.
 
 ## Author
-Harsha Vardhan
+HarshaVardhan
