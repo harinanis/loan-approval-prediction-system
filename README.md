@@ -77,11 +77,15 @@ streamlit run app.py
 - app.py
 - train.csv
 - test.csv
-  
-
+- 
 ## Features
-- Loan prediction
-- Risk analysis
+
+- Predict loan approval using Machine Learning
+- Multiple models: Logistic Regression, Decision Tree, XGBoost
+- Interactive Streamlit dashboard
+- Risk analysis with probability score
+- Visualizations: ROC Curve, Confusion Matrix, Feature Importance
+- Download prediction results as CSV
 
 ## Author
 HarshaVardhan
