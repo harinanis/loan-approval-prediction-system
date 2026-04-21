@@ -85,3 +85,6 @@ streamlit run app.py
 
 ## Author
 HarshaVardhan
+
+## Conclusion
+This project demonstrates ML-based loan prediction.
