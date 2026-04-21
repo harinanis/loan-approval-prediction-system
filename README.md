@@ -94,6 +94,7 @@ streamlit run app.py
 - Visualizations: ROC Curve, Confusion Matrix, Feature Importance
 - Download prediction results as CSV
 
+
 ## Technologies Used
 
 - Python
@@ -102,6 +103,14 @@ streamlit run app.py
 - Scikit-learn
 - XGBoost
 - Plotly
+
+## Future Improvements
+
+- Add Deep Learning models
+- Improve prediction accuracy
+- Deploy with cloud database integration
+- Add user authentication system
+- Enhance UI with more interactive components
 
 ## Author
 HarshaVardhan
